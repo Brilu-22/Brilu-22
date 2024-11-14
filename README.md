@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Brilu also known as Lebogang!
 👩🏻‍💻 Web Developer sharing about my journey and learnings in tech<br/>
-👩🏻‍🎓 Currently studing [Creative Technology]  at the Open Window Institute, Centurion , South Africa<br/>
+👩🏻‍🎓 Currently studing Creative Technology  at the Open Window Institute, Centurion , South Africa<br/>
 💭 Currently learning about cyber Security [digital garden](https://www.coursera.org/professional-certificates/google-cybersecurity)<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
