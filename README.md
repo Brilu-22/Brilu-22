@@ -1,32 +1,10 @@
-# 👋 Hi, I'm Brilu also known as Lebogang!
-
-### Web Developer sharing about my journey and learnings in tech
-
-### Currently studying Creative Technology at the Open Window Institute, Centurion, South Africa
-
-### Graphic designer
-
----
-
-## 📊 GitHub Stats & Contributions
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Brilu-22&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Brilu-22 GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brilu-22&theme=radical&hide_border=false" alt="Brilu-22 Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brilu-22&layout=compact&theme=radical&hide_border=false" alt="Brilu-22 Top Languages" />
-</p>
-
----
-
-## 💻 Tech Stack
-
 <div align="center">
 
 <!-- Animated Welcome -->
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Brilu!;+AKA+Lebogang;+Creative+Developer;+Tech+Enthusiast;+Creative+Designer;+Student;" alt="Animated Typing" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+Wassup!+;+I'm+Brilu!;+AKA+Juanpa;+Creative+Developer;+Tech+Enthusiast;+Creative+Designer;+Student;" alt="Animated Typing" />
 
 <!-- Profile Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" />
+<img src="./images/A12.svg" />
 
 <br/>
 <br/>
@@ -34,7 +12,7 @@
 <!-- Introduction Cards -->
 <div align="center">
   
-### 🚀 **Creative Developer | Tech Explorer | Future Cyber Guardian**
+###  **Creative Developer | Tech Explorer | Future Billionaire**
 
 </div>
 
@@ -45,16 +23,14 @@
   
 | **🎓 Education** | **🔐 Current Focus** | **💡 Passion** |
 |:---:|:---:|:---|
-| Creative Technology Student<br/>Open Window Institute<br/>🇿🇦 South Africa | Google Cybersecurity<br/>Professional Certificate<br/>Building Secure Futures | Clean Code + Creative Design<br/>Tech + Art Fusion<br/>Continuous Learning |
+| Creative Technology Student<br/>Open Window Institute<br/>🇿🇦 South Africa | Tech<br/>Designer Enthusiast<br/>Building Secure Futures | Clean Code + Creative Design<br/>Tech + Art Fusion<br/>Continuous Learning |
 
 </div>
 
 <br/>
 <br/>
 
-<!-- GitHub Stats (UNTOUCHED as requested) -->
-
-## 📊 GitHub Stats & Contributions
+## GitHub Stats & Contributions
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Brilu-22&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Brilu-22 GitHub Stats" />
@@ -66,7 +42,7 @@
 
 ---
 
-## 🛠️ Tech Arsenal
+## Tech Arsenal
 
 <div align="center">
 
@@ -103,7 +79,7 @@
 
 ---
 
-## 🎯 Featured Projects (2024)
+## Featured Projects (2024)
 
 <div align="center">
 
@@ -111,11 +87,45 @@
 
 <br/>
 
-|     | Project                                  | Description                                                                  | Tech Stack                             |                          Link                          |
-| :-: | :--------------------------------------- | :--------------------------------------------------------------------------- | :------------------------------------- | :----------------------------------------------------: |
-| 🏀  | **NBA Application**<br/>_Term 1 Project_ | Dynamic frontend application exploring sports data presentation              | `HTML` `CSS` `JavaScript`              |   [🔗 View](https://github.com/Brilu-22/newapp.git)    |
-| 🙏  | **Selah Platform**<br/>_Term 3 Project_  | Full-stack PHP application with user authentication and database integration | `PHP` `MySQL` `JavaScript` `Bootstrap` | [🔗 View](https://github.com/Brilu-22/Php_Project.git) |
-| 💡  | **Khanyisa System**<br/>_Term 4 Project_ | Advanced web application with modern animations and responsive design        | `SCSS` `GSAP` `JavaScript` `HTML5`     |    [🔗 View](https://github.com/Brilu-22/City.git)     |
+<!-- Project 1: Cloud & Code Academy -->
+
+### Cloud & Code Academy
+
+<img src="./images/CC.svg" width="80%" alt="Cloud & Code Academy Project" />
+
+**Semester 1 Project (Term 1 & 2)**  
+Dynamic School Management System that is a frontend and backend application that focuses on making the learning experience easier for users
+
+**Tech Stack:** `Vue.js` `Pinia` `Composition API` `Net Core` `Rest API` `SQL Server`  
+[🔗 View Repository](https://github.com/Mwape-Kurete/CC-School-Frontend.git)
+
+<br/>
+
+<!-- Project 2: Dulce -->
+
+### Dulce
+
+<img src="./images/Dulce.png" width="80%" alt="Dulce App Project" />
+
+**Term 3 Project**  
+Dulce is a serene, gesture-based app for stress reduction. One colour - One Mind
+
+**Tech Stack:** `React Native` `Expo` `Firebase` `Typescript`  
+[🔗 View Repository](https://github.com/Brilu-22/Rapela.git)
+
+<br/>
+
+<!-- Project 3: Moove -->
+
+### Moove
+
+<img src="./images/moove1.svg" width="80%" alt="Moove App Project" />
+
+**Term 4 Project**  
+AI-Driven Application - Experience the seamless flow of AI-powered fitness planning - From workout generation to nutrition analysis
+
+**Tech Stack:** `React Native` `Expo` `TypeScript` `Groq`  
+[🔗 View Repository](https://github.com/Brilu-22/FCalApp3.git)
 
 </div>
 
@@ -123,7 +133,7 @@
 
 ---
 
-## 🌟 Portfolio & Connect
+## Portfolio & Connect
 
 <div align="center">
 
@@ -132,8 +142,8 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/🎨_My_Portfolio-FF6B6B?style=for-the-badge&logo=atom&logoColor=white)](https://1cjzfzataq8jxnjk0faljg.on.drv.tw/www.Profile.com/#)
-[![Email](https://img.shields.io/badge/📧_Contact_Me-00A98F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/📧_Contact_Me-00A98F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zech01hlongwane@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/brilu-hlongwane-623b54208)
 
 <br/>
 
@@ -148,22 +158,3 @@
 [![GitHub followers](https://img.shields.io/github/followers/Brilu-22.svg?style=social&label=Follow)](https://github.com/Brilu-22)
 
 </div>
-
----
-
-## 🚀 Featured Projects
-
-| Project               | Description                          | Link                                                                           |
-| :-------------------- | :----------------------------------- | :----------------------------------------------------------------------------- |
-| **Term 1 : NBA**      | _(Description for NBA project)_      | [GitHub Repo](https://github.com/Brilu-22/newapp.git)                          |
-| **Term 2 : EQ**       | _(Description for EQ project)_       | [GitHub Repo](https://github.com/KurtSchwimmbacher/DV200T2GroupAssignment.git) |
-| **Term 3 : Selah**    | _(Description for Selah project)_    | [GitHub Repo](https://github.com/Brilu-22/Php_Project.git)                     |
-| **Term 4 : Khanyisa** | _(Description for Khanyisa project)_ | [GitHub Repo](https://github.com/Brilu-22/City.git)                            |
-
----
-
-## 🌐 My Portfolio
-
-Check out my full portfolio for more details on my projects and skills!
-
-[Visit My Portfolio Website](https://1cjzfzataq8jxnjk0faljg.on.drv.tw/www.Profile.com/#)
